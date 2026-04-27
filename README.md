@@ -55,7 +55,7 @@ MatrixMaster/
 | 9 | ➰ Trace | `tr(A)` | Square only | Diagonal sum + eigenvalue sum verification |
 
 ---
-
+```
 ═══════════════════════════════════════════════════════
   Welcome to 🔢 MatrixMaster!
   QSkill Python Internship | Slab 1 — Task 3
