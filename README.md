@@ -259,12 +259,6 @@ rank(A) = number of non-zero singular values of A
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙌 Acknowledgements
 
 - Built using **NumPy's `linalg` module** for all linear algebra computations
